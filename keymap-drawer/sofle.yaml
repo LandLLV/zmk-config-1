@@ -77,7 +77,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - RGB COLOR HSB(128,100,100)
   - Insert
   - Print Scrn
   - CMENU
